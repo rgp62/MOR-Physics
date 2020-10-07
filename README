@@ -12,4 +12,4 @@ This code implements the operator regression technique discussed in [1]. `morp.p
 SAND No: SAND2020-10973 O
 
 
-[1] R. G. Patel, N. A. Trask, M. A. Wood, and E. C. Cyr. A physics-informed operator regres- sion framework for extracting data-driven continuum models. arXiv preprint arXiv:2009.11992, 2020.
+[1] R. G. Patel, N. A. Trask, M. A. Wood, and E. C. Cyr. A physics-informed operator regression framework for extracting data-driven continuum models. arXiv preprint arXiv:2009.11992, 2020.

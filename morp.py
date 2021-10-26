@@ -74,6 +74,7 @@ class nn:
         u2 = self.func(u)
         return u2
 
+#neural networks - takes as input a vector of parameters in addition to the state and wave-vector
 class nnp:
     def __init__(self,width,depth,dimi,dimo,dimp):
         input1 = tf.keras.layers.Input(shape=(None,dimi,))

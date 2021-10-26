@@ -13,4 +13,5 @@ SAND No: SAND2020-10973 O
 
 
 [1] R. G. Patel and Olivier Desjardins. Nonlinear integro-differential operator regression with neural networks. arXiv preprint arXiv:1810.08552, 2018.
+
 [2] R. G. Patel, N. A. Trask, M. A. Wood, and E. C. Cyr. A physics-informed operator regression framework for extracting data-driven continuum models. arXiv preprint arXiv:2009.11992, 2020.
